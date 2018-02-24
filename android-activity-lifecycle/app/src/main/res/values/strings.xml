@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Activity Lifecycle</string>
+    <string name="finish_this_activity">Finish This Activity</string>
+    <string name="go_second_activity">Go Second Activity</string>
+</resources>
